@@ -14,7 +14,7 @@ import android.net.Uri;
 
 import java.util.ArrayList;
 
-import org.patata.android.xarine.pojo.Audio;
+import org.patata.android.xarine.entities.Audio;
 
 public class XarineMainActivity extends AppCompatActivity
 {

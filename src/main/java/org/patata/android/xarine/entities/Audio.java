@@ -1,4 +1,4 @@
-package org.patata.android.xarine.pojo;
+package org.patata.android.xarine.entities;
 
 public class Audio {
     private String title;
